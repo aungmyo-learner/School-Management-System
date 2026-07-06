@@ -1,0 +1,10 @@
+
+
+public enum EntityType {
+	TEACHER,
+	STUDENT,
+	CLERK,
+	EXAM_RECORD,
+	EXAM_TYPE_EXAM_RECORD,
+	EXIT;
+}
