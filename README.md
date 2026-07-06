@@ -23,6 +23,8 @@
 
 This project follows a **Layer archiecture** to separate concerns:
 
+```text
+
 SchoolUserInterFace(UI)
 SchoolTeacherInterFace(teacherUI)
 SchoolStudentInterFace(studentUI)
@@ -56,4 +58,4 @@ SchoolGradeStudentPerformanceService(GradeStudentPerformance Logic)
 SchoolGradeTeacherPerformanceService(GradeStudentPerformance Logic)
 SchoolOverallStudentPerformanceService(OverallStudentPerformance Logic)
 SchoolOverallTeacherPerformanceService(OverallStudentPerformance Logic)
-	↓
+```
