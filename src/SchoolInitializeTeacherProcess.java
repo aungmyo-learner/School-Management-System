@@ -28,7 +28,7 @@ public final class SchoolInitializeTeacherProcess {
 		addTeacher(grade, "Mya May", SubjectName.SCIENCE);
 		addTeacher(grade, "Aye Sandar", SubjectName.LIFESKILLS);
 		addTeacher(grade, "Lwin Lwin Aung", SubjectName.MORALANDVIRTUE);
-		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIROMENTEDUCATION);
+		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIRONMENTEDUCATION);
 		addTeacher(grade, "Aye Hla Tin", SubjectName.ART);
 		addTeacher(grade, "Hla Myo Win", SubjectName.PHYSICALEDUCATION);
 
@@ -41,7 +41,7 @@ public final class SchoolInitializeTeacherProcess {
 		addTeacher(grade, "Hnin Thandar", SubjectName.SCIENCE);
 		addTeacher(grade, "Aye Sandar", SubjectName.LIFESKILLS);
 		addTeacher(grade, "Lwin Lwin Aung", SubjectName.MORALANDVIRTUE);
-		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIROMENTEDUCATION);
+		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIRONMENTEDUCATION);
 		addTeacher(grade, "Aye Hla Tin", SubjectName.ART);
 		addTeacher(grade, "Hla Myo Win", SubjectName.PHYSICALEDUCATION);
 	}
@@ -53,7 +53,7 @@ public final class SchoolInitializeTeacherProcess {
 		addTeacher(grade, "Myat Noe Oo", SubjectName.SCIENCE);
 		addTeacher(grade, "Aye Sandar", SubjectName.LIFESKILLS);
 		addTeacher(grade, "Lwin Lwin Aung", SubjectName.MORALANDVIRTUE);
-		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIROMENTEDUCATION);
+		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIRONMENTEDUCATION);
 		addTeacher(grade, "Aye Hla Tin", SubjectName.ART);
 		addTeacher(grade, "Hla Myo Win", SubjectName.PHYSICALEDUCATION);
 	}
@@ -66,7 +66,7 @@ public final class SchoolInitializeTeacherProcess {
 		addTeacher(grade, "Myat Ei Mon", SubjectName.SCIENCE);
 		addTeacher(grade, "Aye Sandar", SubjectName.LIFESKILLS);
 		addTeacher(grade, "Lwin Lwin Aung", SubjectName.MORALANDVIRTUE);
-		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIROMENTEDUCATION);
+		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIRONMENTEDUCATION);
 		addTeacher(grade, "Aye Hla Tin", SubjectName.ART);
 		addTeacher(grade, "Hla Myo Win", SubjectName.PHYSICALEDUCATION);
 	}
@@ -79,7 +79,7 @@ public final class SchoolInitializeTeacherProcess {
 		addTeacher(grade, "May Thien Sandar", SubjectName.SCIENCE);
 		addTeacher(grade, "Aye Sandar", SubjectName.LIFESKILLS);
 		addTeacher(grade, "Lwin Lwin Aung", SubjectName.MORALANDVIRTUE);
-		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIROMENTEDUCATION);
+		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIRONMENTEDUCATION);
 		addTeacher(grade, "Aye Hla Tin", SubjectName.ART);
 		addTeacher(grade, "Hla Myo Win", SubjectName.PHYSICALEDUCATION);
 	}
@@ -93,7 +93,7 @@ public final class SchoolInitializeTeacherProcess {
 		addTeacher(grade, "Win Win Aye", SubjectName.SCIENCE);
 		addTeacher(grade, "Aye Sandar", SubjectName.LIFESKILLS);
 		addTeacher(grade, "Lwin Lwin Aung", SubjectName.MORALANDVIRTUE);
-		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIROMENTEDUCATION);
+		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIRONMENTEDUCATION);
 		addTeacher(grade, "Aye Hla Tin", SubjectName.ART);
 		addTeacher(grade, "Hla Myo Win", SubjectName.PHYSICALEDUCATION);
 	}
@@ -107,7 +107,7 @@ public final class SchoolInitializeTeacherProcess {
 		addTeacher(grade, "Hnin Aye Wai", SubjectName.SCIENCE);
 		addTeacher(grade, "Aye Sandar", SubjectName.LIFESKILLS);
 		addTeacher(grade, "Lwin Lwin Aung", SubjectName.MORALANDVIRTUE);
-		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIROMENTEDUCATION);
+		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIRONMENTEDUCATION);
 		addTeacher(grade, "Aye Hla Tin", SubjectName.ART);
 		addTeacher(grade, "Hla Myo Win", SubjectName.PHYSICALEDUCATION);
 	}
@@ -121,7 +121,7 @@ public final class SchoolInitializeTeacherProcess {
 		addTeacher(grade, "Myint Sandar Oo", SubjectName.SCIENCE);
 		addTeacher(grade, "Aye Sandar", SubjectName.LIFESKILLS);
 		addTeacher(grade, "Lwin Lwin Aung", SubjectName.MORALANDVIRTUE);
-		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIROMENTEDUCATION);
+		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIRONMENTEDUCATION);
 		addTeacher(grade, "Aye Hla Tin", SubjectName.ART);
 		addTeacher(grade, "Hla Myo Win", SubjectName.PHYSICALEDUCATION);
 	}
@@ -135,7 +135,7 @@ public final class SchoolInitializeTeacherProcess {
 		addTeacher(grade, "Eaint Ei Khin", SubjectName.SCIENCE);
 		addTeacher(grade, "Aye Sandar", SubjectName.LIFESKILLS);
 		addTeacher(grade, "Lwin Lwin Aung", SubjectName.MORALANDVIRTUE);
-		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIROMENTEDUCATION);
+		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIRONMENTEDUCATION);
 		addTeacher(grade, "Aye Hla Tin", SubjectName.ART);
 		addTeacher(grade, "Hla Myo Win", SubjectName.PHYSICALEDUCATION);
 	}
@@ -149,7 +149,7 @@ public final class SchoolInitializeTeacherProcess {
 		addTeacher(grade, "Su Su", SubjectName.BIOLOGY);
 		addTeacher(grade, "Aye Sandar", SubjectName.LIFESKILLS);
 		addTeacher(grade, "Lwin Lwin Aung", SubjectName.MORALANDVIRTUE);
-		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIROMENTEDUCATION);
+		addTeacher(grade, "Lwin Mar Aung", SubjectName.ENVIRONMENTEDUCATION);
 		addTeacher(grade, "Aye Hla Tin", SubjectName.ART);
 		addTeacher(grade, "Hla Myo Win", SubjectName.PHYSICALEDUCATION);
 	}
@@ -171,7 +171,7 @@ public final class SchoolInitializeTeacherProcess {
 		
 		addTeacher(noneGrade, "Aye Sandar", SubjectName.LIFESKILLS);
 		addTeacher(noneGrade, "Lwin Lwin Aung", SubjectName.MORALANDVIRTUE);
-		addTeacher(noneGrade, "Lwin Mar Aung", SubjectName.ENVIROMENTEDUCATION);
+		addTeacher(noneGrade, "Lwin Mar Aung", SubjectName.ENVIRONMENTEDUCATION);
 		addTeacher(noneGrade, "Aye Hla Tin", SubjectName.ART);
 		addTeacher(noneGrade, "Hla Myo Win", SubjectName.PHYSICALEDUCATION);
 	}
@@ -194,7 +194,7 @@ public final class SchoolInitializeTeacherProcess {
 		
 		addTeacher(noneGrade, "Aye Sandar", SubjectName.LIFESKILLS);
 		addTeacher(noneGrade, "Lwin Lwin Aung", SubjectName.MORALANDVIRTUE);
-		addTeacher(noneGrade, "Lwin Mar Aung", SubjectName.ENVIROMENTEDUCATION);
+		addTeacher(noneGrade, "Lwin Mar Aung", SubjectName.ENVIRONMENTEDUCATION);
 		addTeacher(noneGrade, "Aye Hla Tin", SubjectName.ART);
 		addTeacher(noneGrade, "Hla Myo Win", SubjectName.PHYSICALEDUCATION);
 	}

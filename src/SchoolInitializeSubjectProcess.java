@@ -27,7 +27,7 @@ public final class SchoolInitializeSubjectProcess {
 			    SubjectName.SCIENCE,
 			    SubjectName.LIFESKILLS,
 			    SubjectName.MORALANDVIRTUE,
-			    SubjectName.ENVIROMENTEDUCATION,
+			    SubjectName.ENVIRONMENTEDUCATION,
 			    SubjectName.ART,
 			    SubjectName.PHYSICALEDUCATION
 			);
@@ -57,7 +57,7 @@ public final class SchoolInitializeSubjectProcess {
 				SubjectName.SOCIALITY,
 				SubjectName.LIFESKILLS,
 				SubjectName.MORALANDVIRTUE,
-				SubjectName.ENVIROMENTEDUCATION,
+				SubjectName.ENVIRONMENTEDUCATION,
 				SubjectName.ART,
 				SubjectName.PHYSICALEDUCATION
 				);
@@ -85,7 +85,7 @@ public final class SchoolInitializeSubjectProcess {
 				SubjectName.HISTORY,
 				SubjectName.SCIENCE,
 				SubjectName.MORALANDVIRTUE,
-				SubjectName.ENVIROMENTEDUCATION,
+				SubjectName.ENVIRONMENTEDUCATION,
 				SubjectName.ART,
 				SubjectName.PHYSICALEDUCATION
 				);
